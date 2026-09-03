@@ -1,16 +1,17 @@
-## Hi there 👋
+`phongleo1107@github:~$ fastfetch`
 
-<!--
-**phongleo1107/phongleo1107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```text
+                   .--.          phongleo1107@github
+                  |o_o |         ─────────────────────────
+                  |:_/ |         Name:      Phong Leon
+                 //   \ \        
+                (|     | )       From:      Vietnam
+               /'\_   _/`\       College:   University of Engineering and Technology (VNU)
+               \___)=(___/       Major:     Computer Engineering
+                                 
+                                 Tools:     Python · C · JavaScript · SQL ·
+                                            Docker · Git · Linux
+                                 Learning:  Software Engineering · DevOps · AI
+                                 Contact:   github.com/phongleo1107
+                                            phongepic1107@gmail.com
+```
