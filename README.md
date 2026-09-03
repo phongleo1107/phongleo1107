@@ -1,5 +1,6 @@
-```text
 `phongleo1107@github:~$ fastfetch`
+
+```
 
                    .--.          phongleo1107@github
                   |o_o |         ─────────────────────────
