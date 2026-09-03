@@ -1,6 +1,5 @@
 `phongleo1107@github:~$ fastfetch`
 
-<div align="center">
   
 ```
 phongleo1107@github
@@ -14,8 +13,6 @@ Learning:   Software Engineering · DevOps · AI
 Interest:   Applying GenAI to Daily Life & Studying about Software Design
 Contact:    phongepic1107@gmail.com
 ```
-
-</div>
 
 <p align="center">
   <img src="./assets/banner.jpg" width="700">
