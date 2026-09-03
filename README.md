@@ -1,7 +1,6 @@
-```markdown
 <div align="center">
 
-```
+<pre>
 phongleo1107@github:~$ fastfetch
                  .--.                  phongleo1107@github
                 |o_o |                 ─────────────────────────
@@ -14,7 +13,6 @@ phongleo1107@github:~$ fastfetch
                                         Learning:  Software Engineering · DevOps · AI
                                         Contact:   github.com/phongleo1107
                                                    phongepic1107@gmail.com
-```
+</pre>
 
 </div>
-```
