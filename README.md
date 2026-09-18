@@ -10,6 +10,6 @@ College:    University of Engineering and Technology (VNU)
 Major:      Computer Engineering
 Tools:      Python · C · JavaScript · Java · SQL · Docker · Linux
 Learning:   Software Engineering · DevOps · AI
-Interest:   Applying GenAI to Daily Life & Studying about Software Design
+Interest:   Building applications and solving logical problems
 Contact:    phongepic1107@gmail.com
 ```
