@@ -13,7 +13,3 @@ Learning:   Software Engineering · DevOps · AI
 Interest:   Applying GenAI to Daily Life & Studying about Software Design
 Contact:    phongepic1107@gmail.com
 ```
-
-<p align="center">
-  <img src="./assets/banner.jpg" width="700">
-</p>
